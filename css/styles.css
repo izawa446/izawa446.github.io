@@ -41,7 +41,7 @@ header img {
 }
 
 .features img {
-  width: 100%;
+  width: 60%;
 }
 
 .features > h1 {
@@ -80,7 +80,7 @@ header img {
 }
 
 .members img {
-  width: 300px;
+  width: 450px;
 }
 
 .members h2 {
